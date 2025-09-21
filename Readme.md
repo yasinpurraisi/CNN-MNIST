@@ -62,7 +62,3 @@ Notebook created by [Yasin Pourraisi], September 2025.
 - GitHub: [yasinpurraisi](https://github.com/yasinpurraisi)
 - Email: yasinpourraisi@gmail.com
 - Telegram: [yasinprsy](https://t.me/yasinprsy)
-
----
-
-**License:** MIT
